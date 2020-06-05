@@ -13,6 +13,9 @@
 		FF1FB11A2479642700600420 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1FB1182479642700600420 /* Main.storyboard */; };
 		FF1FB11C2479642E00600420 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF1FB11B2479642E00600420 /* Assets.xcassets */; };
 		FF1FB11F2479642E00600420 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1FB11D2479642E00600420 /* LaunchScreen.storyboard */; };
+		FF6700D82489CFB400578F3C /* API-Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6700D72489CFB400578F3C /* API-Constants.swift */; };
+		FF6700DA2489D27200578F3C /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6700D92489D27200578F3C /* Video.swift */; };
+		FF6700DC2489D2B100578F3C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6700DB2489D2B100578F3C /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		FF1FB11B2479642E00600420 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF1FB11E2479642E00600420 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF1FB1202479642E00600420 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF6700D72489CFB400578F3C /* API-Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "API-Constants.swift"; sourceTree = "<group>"; };
+		FF6700D92489D27200578F3C /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		FF6700DB2489D2B100578F3C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				FF1FB11B2479642E00600420 /* Assets.xcassets */,
 				FF1FB11D2479642E00600420 /* LaunchScreen.storyboard */,
 				FF1FB1202479642E00600420 /* Info.plist */,
+				FF6700D72489CFB400578F3C /* API-Constants.swift */,
+				FF6700D92489D27200578F3C /* Video.swift */,
+				FF6700DB2489D2B100578F3C /* Model.swift */,
 			);
 			path = "OneDayBuild-YouTube";
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				FF1FB1172479642700600420 /* ViewController.swift in Sources */,
 				FF1FB1132479642700600420 /* AppDelegate.swift in Sources */,
 				FF1FB1152479642700600420 /* SceneDelegate.swift in Sources */,
+				FF6700DC2489D2B100578F3C /* Model.swift in Sources */,
+				FF6700D82489CFB400578F3C /* API-Constants.swift in Sources */,
+				FF6700DA2489D27200578F3C /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

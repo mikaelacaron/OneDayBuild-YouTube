@@ -35,3 +35,7 @@ You'll learn:
 * Create the video struct
 * Download the data
 * Create a constants file
+
+# Lesson 4: Parse JSON from YouTubeAPI
+* Decodable Protocol
+* Parsing JSON from YouTubeAPI

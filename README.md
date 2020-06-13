@@ -44,3 +44,9 @@ You'll learn:
 # Lesson 5: Create the TableView
 * Add the TableView and display the video titles in the cells
 * Use a custom protocol for the model to send data to the ViewController
+
+# Lesson 6: Custom UITableViewCell
+* Create custom TableViewCell
+* Configure cell to show video thumbnail, title, and date
+* Added Cache Manager to save image data
+* Download imagea and format dates

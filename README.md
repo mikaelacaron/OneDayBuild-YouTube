@@ -50,3 +50,8 @@ You'll learn:
 * Configure cell to show video thumbnail, title, and date
 * Added Cache Manager to save image data
 * Download imagea and format dates
+
+# Lesson 7: Detail View Controller
+* Add a detail view controller
+* Segue to detail
+* WebView in DetailViewController

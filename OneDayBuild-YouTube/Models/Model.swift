@@ -42,7 +42,7 @@ class Model {
                     // Call the "videosFetched" method of the delegate
                     self.delegate?.videosFetched(response.items!)
                     
-                    dump(response)
+                    //dump(response)
                 }
                 
             } catch {

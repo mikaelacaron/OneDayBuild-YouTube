@@ -1,4 +1,5 @@
 # OneDayBuild-YouTube
+
 CodeWithChris Series OneDayBuild
 
 # Lesson 1: Introduction
@@ -39,3 +40,7 @@ You'll learn:
 # Lesson 4: Parse JSON from YouTubeAPI
 * Decodable Protocol
 * Parsing JSON from YouTubeAPI
+
+# Lesson 5: Create the TableView
+* Add the TableView and display the video titles in the cells
+* Use a custom protocol for the model to send data to the ViewController
